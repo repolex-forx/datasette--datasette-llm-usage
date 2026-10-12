@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-llm-usage",
+  "versions": [
+    {
+      "commit": "a9269a83164c364c8758f36e327c79eb8fb174dc",
+      "tag": "0.2a0",
+      "parsed_at": "2026-10-12T19:31:38.041975+00:00"
+    }
+  ]
+}
