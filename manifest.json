@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-llm-usage",
+  "versions": [
+    {
+      "commit": "a9269a83164c364c8758f36e327c79eb8fb174dc",
+      "parsed_at": "2026-10-12T19:29:17.068895+00:00",
+      "tag": "0.2a0",
+      "filetree": "filetree/a9269a83164c364c8758f36e327c79eb8fb174dc.nq.gz",
+      "blobs": [
+        "blob/b6cea7f41251e10917c10577f34e0c359b460407.nq.gz",
+        "blob/6df5b9d447c8d8e2a127885f2630a0df1b40692e.nq.gz",
+        "blob/3959c716eb0656c8aa08bba7377f722c450bfdce.nq.gz",
+        "blob/9fd6c52c5c9c99c4080348096dcd00dcc25877d6.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/29dafe9560c8491b19e61f9b0a1072ff8c7cdb4d.nq.gz",
+        "blob/aa38172836cfcfdeaa3872503fdf5326172d2684.nq.gz",
+        "blob/b188ea6c11220be74175212d5eb9680e863cf050.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
